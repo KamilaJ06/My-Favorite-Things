@@ -1,18 +1,18 @@
 p{
 font-size:18px;
 
-color:rgb(73, 173, 120);
+color:rgb(128,128,128);
 }
 
 
 body{
   background-color:#f0e665;
-  Font-family:serif;
+  Font-family: cursive;
   
 }
 
 h1{
-  background-color:lightblue;
+  background-color: hsl(120, 50%, 78%);
 
 
 }
